@@ -1,1 +1,3 @@
 # Sample file for the KnowledgeHut Git and GitHub Hands-on Exercise.
+
+# Added line for testing of edits, staging, committing, etc.
